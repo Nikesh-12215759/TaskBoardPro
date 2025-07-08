@@ -1,4 +1,4 @@
-# 📝 Task Manager Web App
+# 📝 TaskBoardPro
 
 A simple, beautiful, and functional **Task Manager** built using **HTML, CSS, and JavaScript**.  
 It connects to a backend API to perform CRUD operations:
